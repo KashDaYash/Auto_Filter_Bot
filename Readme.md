@@ -1,11 +1,11 @@
-# Telegram-Auto-Filter-Bot
+# Auto-Filter-Bot
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
 ---
 
-### Follow [Tharuk Renuja](https://github.com/TR-TECH-GUIDE)
-#### PR's Are Very Welcome
+### Follow [KashDaYash](https://github.com/KashDaYash)
+#### You Are Very Welcome
 
 ---
 
@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Telegram-Auto-Filter-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/KashDaYash/Auto_Filter_Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -69,8 +69,8 @@ You can deploy this bot anywhere.
 <details><summary><b>Deploy To VPS</b></summary>
 <p>
 <pre>
-git clone https://github.com/TR-TECH-GUIDE/Telegram-Auto-Filter-Bot
-cd Telegram-Auto-Filter-Bot
+git clone https://github.com/KashDaYash/Auto_Filter_Bot
+cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
@@ -82,7 +82,7 @@ python3 -m bot
 
 ## Support
 
-Join Our [Telegram Group](https://www.telegram.me/trtechguide) For Support/Assistance And Our [Channel](https://www.telegram.me/SLBotsOfficial) For Updates.   
+Join Our [Telegram Group](https://www.telegram.me/TeraYaara) For Support/Assistance And Our [Channel](https://www.telegram.me/RedoxBots) For Updates.   
    
 Report Bugs There..   
 Do Fork And Star The Repository If You Liked It.
@@ -92,11 +92,12 @@ Do Fork And Star The Repository If You Liked It.
 ## Disclaimer
 
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/TR-TECH-GUIDE/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/KashDaYash/Auto-Filter-Bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ---
 
 ## Credits
  - [Fayas](https://github.com/FayasNoushad)
- - [Me](https://github.com/TR-TECH-GUIDE)
+ - [Me](https://github.com/KashDaYash)
+ -
